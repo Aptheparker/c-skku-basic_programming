@@ -168,7 +168,7 @@ None
 
 Your Name - [@instagram](https://www.instagram.com/aptheparker) - aptheparker@gmail.com
 
-Project Link: [https://github.com/aptheparker/me](https://github.com/aptheparker/c-skku-basic_programming)
+Project Link: [https://github.com/aptheparker/c-skku-basic_programming](https://github.com/aptheparker/c-skku-basic_programming)
 
 <!-- Acknowledgments -->
 
