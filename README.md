@@ -131,9 +131,11 @@ Clone the project
 Mini projects with C language:
 
 <ul>
-  <li>Activities</li>
-  <li>Class Information</li>
-  <li>Starbucks</li>
+  <li>atm_software</li>
+  <li>delivery_system</li>
+  <li>shop_system</li>
+  <li>subway_ordering_system</li>
+  <li>table_ordering_system</li>
 </ul>
 
 <!-- Contributing -->
