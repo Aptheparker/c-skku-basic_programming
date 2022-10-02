@@ -3,7 +3,7 @@
 # include <string.h> //including string library
 # define Store1 "G25 Store 1" //define names of the stores.
 # define Store2 "G25 Store 2"
-# define max 100
+# define max 100 //max defined
 
 struct info /*structure: info
              to make a basic structure of info to receive information from data
