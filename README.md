@@ -120,6 +120,6 @@ Contributions are always welcome!
 
 ## :handshake: Contact
 
-Your Name - [@instagram](https://www.instagram.com/aptheparker) - aptheparker@gmail.com
+[@instagram](https://www.instagram.com/aptheparker) - aptheparker@gmail.com
 
 Project Link: [https://github.com/aptheparker/c-skku-basic_programming](https://github.com/aptheparker/c-skku-basic_programming)
