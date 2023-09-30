@@ -63,17 +63,6 @@
   <img src="README_img/img4.png" alt="screenshot" width="900" height="auto"/>
 </div>
 
-<!-- TechStack -->
-
-### :space_invader: Tech Stack
-
-<details>
-<summary>Language</summary>
-  <ul>
-    <li><a href="https://www.cprogramming.com/">C</a></li>
-  </ul>
-</details>
-
 <!-- Usage -->
 
 ### :eyes: Usage
@@ -88,6 +77,16 @@ Mini projects with C language:
   <li>table_ordering_system</li>
 </ul>
 
+<!-- TechStack -->
+
+## :space_invader: Tech Stack
+
+<details>
+<summary>Language</summary>
+  <ul>
+    <li><a href="https://www.cprogramming.com/">C</a></li>
+  </ul>
+</details>
 
 <!-- Getting Started -->
 
