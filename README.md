@@ -74,19 +74,9 @@
   </ul>
 </details>
 
-<!-- Getting Started -->
-
-## :toolbox: Getting Started
-
-Clone the project
-
-```bash
-  git clone https://github.com/aptheparker/c-skku-basic_programming.git
-```
-
 <!-- Usage -->
 
-## :eyes: Usage
+### :eyes: Usage
 
 Mini projects with C language:
 
@@ -97,6 +87,17 @@ Mini projects with C language:
   <li>subway_ordering_system</li>
   <li>table_ordering_system</li>
 </ul>
+
+
+<!-- Getting Started -->
+
+## :toolbox: Getting Started
+
+Clone the project
+
+```bash
+  git clone https://github.com/aptheparker/c-skku-basic_programming.git
+```
 
 <!-- Contributing -->
 
