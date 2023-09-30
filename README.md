@@ -43,24 +43,6 @@
 
 <br />
 
-<!-- Table of Contents -->
-
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-  - [Screenshots](#camera-screenshots)
-  - [Tech Stack](#space_invader-tech-stack)
-- [Getting Started](#toolbox-getting-started)
-  - [Prerequisites](#bangbang-prerequisites)
-  - [Installation](#gear-installation)
-  - [Running Tests](#test_tube-running-tests)
-  - [Run Locally](#running-run-locally)
-- [Usage](#eyes-usage)
-- [Contributing](#wave-contributing)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
-
 <!-- About the Project -->
 
 ## :star2: About the Project
