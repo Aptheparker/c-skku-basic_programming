@@ -122,6 +122,6 @@ Contributions are always welcome!
 
 Email: aptheparker@gmail.com
 
-Instagram: [@instagram](https://www.instagram.com/aptheparker)
+Instagram: [@aptheparker](https://www.instagram.com/aptheparker)
 
 Project Link: [https://github.com/aptheparker/c-skku-basic_programming](https://github.com/aptheparker/c-skku-basic_programming)
