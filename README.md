@@ -96,28 +96,6 @@
 
 ## :toolbox: Getting Started
 
-<!-- Prerequisites -->
-
-### :bangbang: Prerequisites
-
-None
-
-<!-- Installation -->
-
-### :gear: Installation
-
-None
-
-<!-- Running Tests -->
-
-### :test_tube: Running Tests
-
-None
-
-<!-- Run Locally -->
-
-### :running: Run Locally
-
 Clone the project
 
 ```bash
@@ -156,12 +134,6 @@ Contributions are always welcome!
   <li>Open a Pull Request</li>
 </ol>
 
-<!-- License -->
-
-## :warning: License
-
-None
-
 <!-- Contact -->
 
 ## :handshake: Contact
@@ -169,9 +141,3 @@ None
 Your Name - [@instagram](https://www.instagram.com/aptheparker) - aptheparker@gmail.com
 
 Project Link: [https://github.com/aptheparker/c-skku-basic_programming](https://github.com/aptheparker/c-skku-basic_programming)
-
-<!-- Acknowledgments -->
-
-## :gem: Acknowledgements
-
-None
